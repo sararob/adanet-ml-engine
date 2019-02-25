@@ -3,7 +3,7 @@
 Training AdaNet models on Cloud ML Engine
 ============================
 
-This is the code accompanying [this blog post]() showing how to build an [AdaNet](https://github.com/tensorflow/adanet) model with `AutoEnsembleEstimator` and [TF Hub](https://tensorflow.org/hub), and train it on [Cloud ML Engine](https://cloud.google.com/ml-engine/).
+This is the code accompanying [this blog post](https://medium.com/tensorflow/combining-multiple-tensorflow-hub-modules-into-one-ensemble-network-with-adanet-56fa73588bb0) showing how to build an [AdaNet](https://github.com/tensorflow/adanet) model with `AutoEnsembleEstimator` and [TF Hub](https://tensorflow.org/hub), and train it on [Cloud ML Engine](https://cloud.google.com/ml-engine/).
 
 See the blog post for details, and follow along below for a quick guide on how to train on ML Engine.
 
